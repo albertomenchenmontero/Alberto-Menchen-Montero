@@ -43,4 +43,4 @@ Aquí encontrarás una selección de los proyectos que he desarrollado durante m
   
 ---
 
-📬 **Contacto**: [LinkedIn](https://www.linkedin.com/in/tu-perfil)
+📬 **Contacto**: [LinkedIn](https://www.linkedin.com/in/alberto-menchen-a00457381/)
