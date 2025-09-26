@@ -36,7 +36,7 @@ Aquí encontrarás una selección de los proyectos que he desarrollado durante m
   Traductor completo **C → LISP → Forth** usando Flex y Bison.
 
 - 🌐 [Sistemas Distribuidos](https://github.com/albertomenchenmontero/Sistemas-Distribuidos)  
-  Servicio distribuido de tuplas `<key-value1-value2-value3>` implementado en C con **colas de mensajes, sockets TCP y ONC RPC**, incluyendo cliente en Python y servidor concurrente en C.
+  Servicio distribuido implementado en C con **colas de mensajes, sockets TCP y ONC RPC**, incluyendo cliente en Python y servidor concurrente en C.
 
 - 💾 [Estructura de Computadores](https://github.com/albertomenchenmontero/Estructura-de-Computadores)  
   Programas en ensamblador MIPS: operaciones aritméticas, control de flujo y gestión de memoria.
